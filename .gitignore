@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.vscode/
+.DS_Store
+
+# Recreated exactly by fraud_detection.py
+outputs/synthetic_transactions.csv
